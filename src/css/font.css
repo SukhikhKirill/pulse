@@ -24,3 +24,12 @@
 	font-weight: 700;
 	font-style: normal;
 }
+
+@font-face {
+    font-family: 'MuseoModerno';
+    src: local('MuseoModerno Regular'), local('MuseoModerno-Regular'),
+        url('../fonts/MuseoModerno-Regular.woff2') format('woff2'),
+        url('../fonts/MuseoModerno-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
